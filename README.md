@@ -8,7 +8,7 @@
    <i>The Awaited Bot</i>
 </p>
  
-## New Updated Repo is [Here](https://github.com/Teameviral/FIREXUSERBOT).
+## New Updated Repo is [Here](https://github.com/vikas04599/FIREXUSERBOT).
    
 # [Fire-X](https://t.me/FireXUserBot) userbot
 
@@ -19,7 +19,7 @@ It is not like the other bots which are being Suspended by Heroku. Hence, it can
 
 ## ᑈֆօƈɨǟʟ ՏԵɑԵմՏ օƒ ɮօԵ ᐵ 
 
-<p align="left"><a href="https://github.com/TeamEviral/Fire-X/network/members"><img src="https://img.shields.io/github/forks/TeamEviral/Fire-X?label=Forks&logoColor=purple&style=social"></a><p align="left"><a href="https://github.com/TeamEviral/Fire-X/stargazers"><img src="https://img.shields.io/github/stars/TeamEviral/Fire-X?logoColor=red&style=social"></a><p align="left"><a href="https://github.com/TeamEviral/Fire-X"><img src="https://img.shields.io/github/last-commit/TeamEviral/Fire-X?logoColor=brown&style=plastic"></a>
+<p align="left"><a href="https://github.com/vikas04599/Fire-X/network/members"><img src="https://img.shields.io/github/forks/TeamEviral/Fire-X?label=Forks&logoColor=purple&style=social"></a><p align="left"><a href="https://github.com/TeamEviral/Fire-X/stargazers"><img src="https://img.shields.io/github/stars/TeamEviral/Fire-X?logoColor=red&style=social"></a><p align="left"><a href="https://github.com/TeamEviral/Fire-X"><img src="https://img.shields.io/github/last-commit/TeamEviral/Fire-X?logoColor=brown&style=plastic"></a>
 
 # How to Deploy Fire-X Userbot?
    
@@ -31,7 +31,7 @@ It is not like the other bots which are being Suspended by Heroku. Hence, it can
    - Fork this repo above by turning on desktop sites.
    - then follow template method given below.
    - Your Forked Url is looking Like: `https://github.com/vikas04599/Fire-X` ; YourGitName = Your Github Username.
-   - Now use this url to deploy: `Heroku.com/deploy?template=your forked url here` e.g.  `heroku.com/deploy?template=https://github.com/maihindu/Fire-X`; Here we put YourGitName = maihindu.   
+   - Now use this url to deploy: `Heroku.com/deploy?template=your forked url here` e.g.  `heroku.com/deploy?template=https://github.com/vikas04599/Fire-X`; Here we put YourGitName = maihindu.   
 
 
 ### API ID AND API HASH 
